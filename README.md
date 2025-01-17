@@ -1,7 +1,7 @@
 This repository showcases my journey in exploring various machine learning algorithms and concepts. 
 It contains implementations of foundational and advanced ML models, each designed for specific real-world problems and datasets.
 
-#Contents
+#Contents#
 1- Linear Regression (Salary Prediction)
     Implementation of linear regression to predict salaries based on experience or other features.
 2- Linear Regression (Housing Prices)
@@ -25,11 +25,11 @@ It contains implementations of foundational and advanced ML models, each designe
 11- K-Means Clustering
       Unsupervised learning algorithm for clustering datasets into meaningful groups.
 
-#Key Features
+#Key Features#
   Code Clarity: Each script is well-documented for easy understanding.
   Concepts Covered: Includes supervised, unsupervised, and dimensionality reduction techniques.
   Educational Purpose: Perfect for beginners or those looking to understand ML algorithms from scratch.
-#How to Use
+#How to Use#
   Clone the repository and run the Python scripts in your preferred environment. Each script contains a self-contained example for practical learning.
 
 Feel free to explore, modify, and use these implementations as a reference or a starting point for your own projects.
